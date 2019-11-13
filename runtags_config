@@ -1,0 +1,1 @@
+alias runtags='mktags.py -a . -t .cpp .vx .h .cc .hpp .py .c .cl .txt .log'
